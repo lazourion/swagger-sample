@@ -1,0 +1,2 @@
+<p>This is coming</p>
+<p><strong>from a file</strong></p>
